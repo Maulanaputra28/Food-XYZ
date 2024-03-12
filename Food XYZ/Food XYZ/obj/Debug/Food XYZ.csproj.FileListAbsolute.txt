@@ -1,0 +1,27 @@
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\bin\Debug\Food XYZ.exe.config
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\bin\Debug\Food XYZ.exe
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\bin\Debug\Food XYZ.pdb
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.AssemblyReference.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.Form1.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.Properties.Resources.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.GenerateResource.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.CoreCompileInputs.cache
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food XYZ.exe
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food XYZ.pdb
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.gudang.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.FormAdminLoginActivity.resources
+C:\Users\SMK TUNAS HARAPAN\Documents\latihan\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.KelolaUser.resources
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\bin\Debug\Food XYZ.exe.config
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\bin\Debug\Food XYZ.exe
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\bin\Debug\Food XYZ.pdb
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.AssemblyReference.cache
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.Form1.resources
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.FormAdminLoginActivity.resources
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.gudang.resources
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.KelolaUser.resources
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food_XYZ.Properties.Resources.resources
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.GenerateResource.cache
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food XYZ.csproj.CoreCompileInputs.cache
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food XYZ.exe
+D:\LKS IT SOFTWARE\Food XYZ\Food XYZ\obj\Debug\Food XYZ.pdb
